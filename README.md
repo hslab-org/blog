@@ -1,6 +1,6 @@
-#画像表示テスト
+#画像表示テスト　すみませんね昔描いたくっだらない絵で。
 
-![テスト](https://raw.githubusercontent.com/hslab-org/blog/master/CxzNMpIUQAQIN9I.jpg "テストテスト")
+<img src="https://raw.githubusercontent.com/hslab-org/blog/master/CxzNMpIUQAQIN9I.jpg" alt="おはなししようよ！" title="ムスカルド">
 
 もしもし〜ムスカルドです☆ムスカルドはおしゃべりがだぁいすきなんDA☆
 
